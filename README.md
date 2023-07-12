@@ -89,7 +89,7 @@
 <img align="left" alt="godot" width="80px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/godot.svg"/>
 <img align="left" alt="unity" width="80px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/unity.svg"/>
 <img align="left" alt="blender" width="100px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/blender.svg"/>
-<br>
+<br> <br>
 
 <!-- Updated Github Stats -->
 ## 📊 Github Statistics
