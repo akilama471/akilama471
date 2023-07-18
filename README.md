@@ -94,9 +94,9 @@
 
 <br/> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akilama471&layout=donut&theme=react&hide_border=false)]
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilama471&layout=donut&theme=react&hide_border=false" alt="" />
 <br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=akilama471&show_icons=true&include_all_commits=true&theme=react&hide_border=false" alt="Puneet Singh" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=akilama471&show_icons=true&include_all_commits=true&theme=react&hide_border=false" alt="" />
 
 <br />
