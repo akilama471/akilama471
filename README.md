@@ -96,10 +96,6 @@
 
 <br/> 
 
-<!--&theme=buefy&bg_color=0D1117"/></a> -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilama471&layout=compact&theme=react&hide_border=false" />
-<br />
-<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akilama471&layout=donut&theme=react&hide_border=false)]
 <br/>
 
