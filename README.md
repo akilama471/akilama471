@@ -99,7 +99,7 @@
 <!--&theme=buefy&bg_color=0D1117"/></a> -->
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilama471&layout=compact&theme=react&hide_border=false" /></a>
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akilama471&layout=donu&theme=react&hide_border=falset)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akilama471&layout=compact&theme=react&hide_border=false)
 <br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akilama471&show_icons=true&include_all_commits=true&theme=react&hide_border=false" alt="Puneet Singh" /></a>
