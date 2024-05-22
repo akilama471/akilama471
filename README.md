@@ -19,24 +19,16 @@
 
 </br>
 
-<h3 align="center">Connect with me:</h3>
+<!-- Github Streaks Stats -->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akilamadusanka1/" title="LinkedIN"><img alt="LinkedIN" height="48px" src="https://img.icons8.com/color/48/linkedin.png" /></a>
-  <a href="https://www.instagram.com/a.madu.20/" target="blank" title="Instagram"><img alt="Instagram" height="48px" src="https://img.icons8.com/color/48/instagram-new--v1.png" /></a>
-  <a href="https://www.facebook.com/akila.ma471/" title="Facebook"><img alt="Facebook" height="48px" src="https://img.icons8.com/color/48/facebook-new.png" /></a>
-  <a href="https://discordapp.com/users/775019743651823646" title="Facebook"><img alt="Facebook" height="48px" src="https://img.icons8.com/color/48/discord-logo.png" /></a>
+  <img title="Streak Stats 🔥" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com?user=akilama471&theme=dark"/>
 </p>
 
 ***
 
 <br />
 
-<!-- Github Streaks Stats -->
-
-<p align="center">
-  <img title="Streak Stats 🔥" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com?user=akilama471&theme=dark"/>
-</p>
 
 <!-- Main Content Of The Page -->
 ### <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23"> Hi Developers <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23">
@@ -51,6 +43,17 @@
 - 📄 Know about My Projects : [My_Projects](https://github.com/akilama471?tab=repositories)
 - 📧 Feel Free to Contact Me On WhatsApp : [(+94)701108494] <br>
 - 📫 How To Reach Me : *<developer.akila5@gmail.com>* <br>
+<br>
+
+<h3 align="center">Connect with me:</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akilamadusanka1/" title="LinkedIN"><img alt="LinkedIN" height="48px" src="https://img.icons8.com/color/48/linkedin.png" /></a>
+  <a href="https://www.instagram.com/a.madu.20/" target="blank" title="Instagram"><img alt="Instagram" height="48px" src="https://img.icons8.com/color/48/instagram-new--v1.png" /></a>
+  <a href="https://www.facebook.com/akila.ma471/" title="Facebook"><img alt="Facebook" height="48px" src="https://img.icons8.com/color/48/facebook-new.png" /></a>
+  <a href="https://discordapp.com/users/775019743651823646" title="Facebook"><img alt="Facebook" height="48px" src="https://img.icons8.com/color/48/discord-logo.png" /></a>
+</p>
+
 <br>
 
 <!-- Languages & Tools -->
