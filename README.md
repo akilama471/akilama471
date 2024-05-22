@@ -7,7 +7,8 @@
 </p>
 
 <!-- Brief Text About Myself -->
-<h4 align="center"> | Founder and CEO @ AKARI CLOUD SOLUTIONS |</h4>
+<h4 align="center">| Founder and CEO @ AKARI CLOUD SOLUTIONS |</h4>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=akilama471&label=Profile%20views&color=0e75b6&style=flat" alt="akilama471" /> </p>
 
 </br>
 
@@ -23,19 +24,13 @@
 
 </br>
 
+<h3 align="center">Connect with me:</h3>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/akilamadusanka1/" title="LinkedIN">
-  <img alt="LinkedIN" height="48px" src="https://img.icons8.com/color/48/linkedin.png" />
-  </a>
-<a href="https://www.instagram.com/a.madu.20/" target="blank" title="Instagram">
- <img alt="Instagram" height="48px" src="https://img.icons8.com/color/48/instagram-new--v1.png" />
-</a>
-<a href="https://www.facebook.com/akila.ma471/" title="Facebook">
- <img alt="Facebook" height="48px" src="https://img.icons8.com/color/48/facebook-new.png" />
-</a>
-<a href="https://discordapp.com/users/775019743651823646" title="Facebook">
- <img alt="Facebook" height="48px" src="https://img.icons8.com/color/48/discord-logo.png" />
-</a>
+  <a href="https://www.linkedin.com/in/akilamadusanka1/" title="LinkedIN"><img alt="LinkedIN" height="48px" src="https://img.icons8.com/color/48/linkedin.png" /></a>
+  <a href="https://www.instagram.com/a.madu.20/" target="blank" title="Instagram"><img alt="Instagram" height="48px" src="https://img.icons8.com/color/48/instagram-new--v1.png" /></a>
+  <a href="https://www.facebook.com/akila.ma471/" title="Facebook"><img alt="Facebook" height="48px" src="https://img.icons8.com/color/48/facebook-new.png" /></a>
+  <a href="https://discordapp.com/users/775019743651823646" title="Facebook"><img alt="Facebook" height="48px" src="https://img.icons8.com/color/48/discord-logo.png" /></a>
 </p>
 
 ***
@@ -56,8 +51,7 @@
 - 🔭 I’m Currently Working as - [Software Engineer @ Akari Cloud Solutions ]<br>
 - 🌱 I’m Currently Learning `Full Stack Development` <br>
 - 💻 Founder @ Akari Cloud Solutions
-- 👨‍💻 My Portfolio : [My_Page](https://akilamadusanka.lk/)
-- 📱 My Profile Card : [Profile_Card](https://akilamadusanka.lk/Profile-Card/)
+- 👨‍💻 My Portfolio : [My_Page](https://akilama471.github.io/)
 - 👯 I’m Looking to Collaborate On `Open Source Projects.` <br>
 - 📄 Know about My Projects : [My_Projects](https://github.com/akilama471?tab=repositories)
 - 📧 Feel Free to Contact Me On WhatsApp : [(+94)701108494] <br>
@@ -94,10 +88,9 @@
 ## 📊 Github Statistics
 
 <br/> 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilama471&layout=donut&theme=react&hide_border=false" alt="" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=akilama471" alt="akilama471"/>
+<br/> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilama471&layout=donut&theme=react&hide_border=false" alt="akilama471" />
 <br/>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=akilama471&show_icons=true&include_all_commits=true&theme=react&hide_border=false" alt="" />
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=akilama471&show_icons=true&include_all_commits=true&theme=react&hide_border=false" alt="akilama471" />
 <br />
