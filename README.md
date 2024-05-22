@@ -22,7 +22,7 @@
 <!-- Github Streaks Stats -->
 
 <p align="center">
-  <img title="Streak Stats 🔥" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com?user=akilama471&theme=dark"/>
+  <img title="Streak Stats 🔥" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com?user=akilama471&theme=dracula"/>
 </p>
 
 ***
@@ -41,7 +41,7 @@
 - 👨‍💻 My Portfolio : [My_Page](https://akilama471.github.io/)
 - 👯 I’m Looking to Collaborate On `Open Source Projects.` <br>
 - 📄 Know about My Projects : [My_Projects](https://github.com/akilama471?tab=repositories)
-- 📧 Feel Free to Contact Me On WhatsApp : [(+94)701108494] <br>
+- 📧 Feel Free to Contact Me On WhatsApp : [(+94)767221025] <br>
 - 📫 How To Reach Me : *<developer.akila5@gmail.com>* <br>
 </br>
 
@@ -122,6 +122,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilama471&layout=compact&theme=dracula" alt="languages"/>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=akilama471&show_icons=true&include_all_commits=true&theme=react&hide_border=false" alt="akilama471" />
+<img src="https://github-readme-stats.vercel.app/api?username=akilama471&show_icons=true&include_all_commits=true&theme=dracula&hide_border=false" alt="akilama471" />
 <br />
 </p>
