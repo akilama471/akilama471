@@ -88,9 +88,11 @@
 ## 📊 Github Statistics
 
 <br/> 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=akilama471" alt="akilama471"/>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=akilama471" alt="akilama471"/>
 <br/> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilama471&layout=donut&theme=react&hide_border=false" alt="akilama471" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilama471&layout=donut&theme=react&hide_border=false" alt="akilama471" />
 <br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=akilama471&show_icons=true&include_all_commits=true&theme=react&hide_border=false" alt="akilama471" />
+<img src="https://github-readme-stats.vercel.app/api?username=akilama471&show_icons=true&include_all_commits=true&theme=react&hide_border=false" alt="akilama471" />
 <br />
+</p>
