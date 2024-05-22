@@ -57,37 +57,39 @@
 <br>
 
 ***
+<p align="left">
 <!-- Languages-->
 ### 👨‍💻 Languages
 
-<img align="left" alt="html5" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/html5.svg"/>
-<img align="left" alt="css3" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/css3.svg"/>
-<img align="left" alt="javascript" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/javascript.svg"/>
-<img align="left" alt="ts" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/typescript.svg"/>
-<img align="left" alt="php" width="42px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/php.svg"/>
-<img align="left" alt="python" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/python.svg"/>
-<img align="left" alt="cpp" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/cpp.svg"/>
-<img align="left" alt="csharp" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/csharp.svg"/>
-<img align="left" alt="rust" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/rust.svg"/>
-<img align="left" alt="ruby" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/ruby.svg"/>
-<img align="left" alt="java" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/java.svg"/>
-<img align="left" alt="go" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/golang.svg"/>
-<img align="left" alt="dart" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/dart.svg"/>
-
+<img alt="html5" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/html5.svg"/>
+<img alt="css3" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/css3.svg"/>
+<img alt="javascript" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/javascript.svg"/>
+<img alt="ts" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/typescript.svg"/>
+<img alt="php" width="42px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/php.svg"/>
+<img alt="python" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/python.svg"/>
+<img alt="cpp" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/cpp.svg"/>
+<img alt="csharp" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/csharp.svg"/>
+<img alt="rust" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/rust.svg"/>
+<img alt="ruby" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/ruby.svg"/>
+<img alt="java" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/java.svg"/>
+<img alt="go" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/golang.svg"/>
+<img alt="dart" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/dart.svg"/>
+</p>
 <br/>
 <br/>
 
+<p align="left">
 <!-- Framework & Librar -->
 ### 👨‍💻 Framework & Library
 
-<img align="left" alt="bootstrap" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/bootstrap.svg"/>
-<img align="left" alt="laravel" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/laravel.svg"/>
-<img align="left" alt="flutter" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/flutter.svg"/>
-<img align="left" alt="react" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/react.svg"/>
-<img align="left" alt="cakephp" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/cakephp.svg"/>
-<img align="left" alt="angular" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/angular.svg"/>
-<img align="left" alt="django" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/django.svg"/>
-
+<img alt="bootstrap" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/bootstrap.svg"/>
+<img alt="laravel" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/laravel.svg"/>
+<img alt="flutter" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/flutter.svg"/>
+<img alt="react" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/react.svg"/>
+<img alt="cakephp" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/cakephp.svg"/>
+<img alt="angular" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/angular.svg"/>
+<img alt="django" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/django.svg"/>
+</p>
 <br/>
 <br/>
 
