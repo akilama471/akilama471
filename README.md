@@ -57,10 +57,10 @@
 <br>
 
 ***
-<p align="left">
 <!-- Languages-->
 ### 👨‍💻 Languages
 
+<p align="left">
 <img alt="html5" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/html5.svg"/>
 <img alt="css3" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/css3.svg"/>
 <img alt="javascript" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/javascript.svg"/>
@@ -78,10 +78,10 @@
 <br/>
 <br/>
 
-<p align="left">
 <!-- Framework & Librar -->
 ### 👨‍💻 Framework & Library
 
+<p align="left">
 <img alt="bootstrap" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/bootstrap.svg"/>
 <img alt="laravel" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/laravel.svg"/>
 <img alt="flutter" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/flutter.svg"/>
