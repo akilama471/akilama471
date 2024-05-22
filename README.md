@@ -56,6 +56,7 @@
 
 <br>
 
+***
 <!-- Languages-->
 ### 👨‍💻 Languages
 
@@ -75,6 +76,7 @@
 
 <br/>
 
+***
 <!-- Framework & Librar -->
 ### 👨‍💻 Framework & Library
 
@@ -88,6 +90,7 @@
 
 <br/>
 
+***
 <!-- Tools -->
 ### 👨‍💻 Tools
 
@@ -103,7 +106,7 @@
 <br>
 
 <!-- Updated Github Stats -->
-## 📊 Github Statistics
+### 📊 Github Statistics
 
 <br/> 
 <p align="center">
