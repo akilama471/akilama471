@@ -75,7 +75,6 @@
 <img alt="go" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/golang.svg"/>
 <img alt="dart" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/dart.svg"/>
 </p>
-<br/>
 
 <!-- Framework & Librar -->
 ### 👨‍💻 Framework & Library
@@ -89,7 +88,6 @@
 <img alt="angular" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/angular.svg"/>
 <img alt="django" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/django.svg"/>
 </p>
-<br/>
 
 <!-- Tools -->
 ### 👨‍💻 Tools
@@ -104,7 +102,6 @@
 <img alt="unity" width="80px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/unity.svg"/>
 <img alt="blender" width="100px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/blender.svg"/>
 </p>
-<br/>
 
 ***
 <!-- Updated Github Stats -->
