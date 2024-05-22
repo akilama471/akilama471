@@ -76,7 +76,6 @@
 <img alt="dart" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/dart.svg"/>
 </p>
 <br/>
-<br/>
 
 <!-- Framework & Librar -->
 ### 👨‍💻 Framework & Library
@@ -91,21 +90,20 @@
 <img alt="django" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/django.svg"/>
 </p>
 <br/>
-<br/>
 
 <!-- Tools -->
 ### 👨‍💻 Tools
 
-<img align="left" alt="windows" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/windows.svg"/>
-<img align="left" alt="linux" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/linux.svg"/>
-<img align="left" alt="figma" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/figma.svg"/>
-<img align="left" alt="code" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/vscode.svg"/>
-<img align="left" alt="android" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/android.svg"/>
-<img align="left" alt="godot" width="80px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/godot.svg"/>
-<img align="left" alt="unity" width="80px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/unity.svg"/>
-<img align="left" alt="blender" width="100px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/blender.svg"/>
-
-<br/>
+<p align="left">
+<img alt="windows" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/windows.svg"/>
+<img alt="linux" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/linux.svg"/>
+<img alt="figma" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/figma.svg"/>
+<img alt="code" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/vscode.svg"/>
+<img alt="android" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/android.svg"/>
+<img alt="godot" width="80px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/godot.svg"/>
+<img alt="unity" width="80px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/unity.svg"/>
+<img alt="blender" width="100px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/blender.svg"/>
+</p>
 <br/>
 
 ***
