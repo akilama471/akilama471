@@ -79,28 +79,28 @@
 <!-- Framework & Librar -->
 ### 👨‍💻 Framework & Library
 
-<p align="left">
-<img alt="bootstrap" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/bootstrap.svg"/>
-<img alt="laravel" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/laravel.svg"/>
-<img alt="flutter" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/flutter.svg"/>
-<img alt="react" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/react.svg"/>
-<img alt="cakephp" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/cakephp.svg"/>
-<img alt="angular" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/angular.svg"/>
-<img alt="django" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/django.svg"/>
+<p>
+<img align="left" alt="bootstrap" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/bootstrap.svg"/>
+<img align="left" alt="laravel" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/laravel.svg"/>
+<img align="left" alt="flutter" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/flutter.svg"/>
+<img align="left" alt="react" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/react.svg"/>
+<img align="left" alt="cakephp" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/cakephp.svg"/>
+<img align="left" alt="angular" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/angular.svg"/>
+<img align="left" alt="django" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/django.svg"/>
 </p>
 
 <!-- Tools -->
 ### 👨‍💻 Tools
 
-<p align="left">
-<img alt="windows" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/windows.svg"/>
-<img alt="linux" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/linux.svg"/>
-<img alt="figma" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/figma.svg"/>
-<img alt="code" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/vscode.svg"/>
-<img alt="android" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/android.svg"/>
-<img alt="godot" width="80px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/godot.svg"/>
-<img alt="unity" width="80px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/unity.svg"/>
-<img alt="blender" width="100px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/blender.svg"/>
+<p>
+<img align="left" alt="windows" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/windows.svg"/>
+<img align="left" alt="linux" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/linux.svg"/>
+<img align="left" alt="figma" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/figma.svg"/>
+<img align="left" alt="code" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/vscode.svg"/>
+<img align="left" alt="android" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/android.svg"/>
+<img align="left" alt="godot" width="80px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/godot.svg"/>
+<img align="left" alt="unity" width="80px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/unity.svg"/>
+<img align="left" alt="blender" width="100px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/blender.svg"/>
 </p>
 
 ***
