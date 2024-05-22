@@ -76,6 +76,7 @@
   <img align="left" alt="dart" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/dart.svg"/>
 </p>
 
+</br>
 <!-- Framework & Librar -->
 ### 👨‍💻 Framework & Library
 
@@ -89,6 +90,7 @@
   <img align="left" alt="django" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/django.svg"/>
 </p>
 
+</br>
 <!-- Tools -->
 ### 👨‍💻 Tools
 
