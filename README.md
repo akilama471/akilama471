@@ -122,6 +122,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilama471&layout=compact&theme=dracula" alt="languages"/>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=akilama471&show_icons=true&include_all_commits=true&theme=dracula&hide_border=false" alt="akilama471" />
+![Akila's GitHub stats](https://github-readme-stats.vercel.app/api?username=akilama471&show_icons=true&theme=dracula)
 <br />
 </p>
