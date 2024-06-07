@@ -25,9 +25,16 @@
   <img title="Streak Stats 🔥" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com?user=akilama471&theme=dracula"/>
 </p>
 
-| <h3>Connect with me:</h3> |
-|-----------------|---------------|---------------|---------------|
-| <a href="https://www.linkedin.com/in/akilamadusanka1/" title="LinkedIN"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> | <a href="https://www.instagram.com/a.madu.20/" target="blank" title="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> | <a href="https://www.facebook.com/akila.ma471/" title="Facebook"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" /></a> | <a href="https://discordapp.com/users/775019743651823646" title="Discord"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a> |
+<br />
+
+<div align="center">
+  <h3>Connect with me:</h3>
+  <a href="https://www.linkedin.com/in/akilamadusanka1/" title="LinkedIN"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/a.madu.20/" target="blank" title="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.facebook.com/akila.ma471/" title="Facebook"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://discordapp.com/users/775019743651823646" title="Discord"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://wa.me/94767221025" title="Whatsapp"><img src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</div>
 
 ***
 
