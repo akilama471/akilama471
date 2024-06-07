@@ -63,7 +63,14 @@
 | Category        | Skills        |
 |-----------------|---------------|
 | 👨‍💻 Languages | <img align="left" alt="html5" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/html5.svg"/> <img align="left" alt="css3" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/css3.svg"/> <img align="left" alt="javascript" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/javascript.svg"/> <img align="left" alt="ts" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/typescript.svg"/> <img align="left" alt="php" width="42px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/php.svg"/> <img align="left" alt="python" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/python.svg"/> <img align="left" alt="cpp" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/cpp.svg"/> <img align="left" alt="csharp" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/csharp.svg"/> <img align="left" alt="rust" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/rust.svg"/> <img align="left" alt="ruby" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/ruby.svg"/> <img align="left" alt="java" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/java.svg"/> <img align="left" alt="go" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/golang.svg"/> <img align="left" alt="dart" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/dart.svg"/> |
-
+| 👨‍💻 Database | |
+| 👨‍💻 CSS Framework | |
+| 👨‍💻 JS Framework | |
+| 👨‍💻 PHP Framework | |
+| 👨‍💻 Python Framework | |
+| 👨‍💻 IDE & Environment | |
+| 👨‍💻 Game Engine | |
+| 👨‍💻 Learning | |
 </br>
 
 <!-- Framework & Librar -->
