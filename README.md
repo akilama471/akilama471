@@ -62,45 +62,14 @@
 
 | Category        | Skills        |
 |-----------------|---------------|
-| 👨‍💻 Languages | <img align="left" alt="html5" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/html5.svg"/> <img align="left" alt="css3" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/css3.svg"/> <img align="left" alt="javascript" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/javascript.svg"/> <img align="left" alt="ts" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/typescript.svg"/> <img align="left" alt="php" width="42px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/php.svg"/> <img align="left" alt="python" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/python.svg"/> <img align="left" alt="cpp" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/cpp.svg"/> <img align="left" alt="csharp" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/csharp.svg"/> <img align="left" alt="rust" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/rust.svg"/> <img align="left" alt="ruby" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/ruby.svg"/> <img align="left" alt="java" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/java.svg"/> <img align="left" alt="go" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/golang.svg"/> <img align="left" alt="dart" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/dart.svg"/> |
+| 👨‍💻 Languages | |
 | 👨‍💻 Database | |
-| 👨‍💻 CSS Framework | |
-| 👨‍💻 JS Framework | |
-| 👨‍💻 PHP Framework | |
-| 👨‍💻 Python Framework | |
-| 👨‍💻 IDE & Environment | |
+| 👨‍💻 Style Framework | |
+| 👨‍💻 Framework | |
 | 👨‍💻 Game Engine | |
+| 👨‍💻 IDE & Environment | |
+| 👨‍💻 Services & Tools | |
 | 👨‍💻 Learning | |
-</br>
-
-<!-- Framework & Librar -->
-### 👨‍💻 Framework & Library
-
-<p align="center">
-  <img align="left" alt="bootstrap" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/bootstrap.svg"/>
-  <img align="left" alt="laravel" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/laravel.svg"/>
-  <img align="left" alt="flutter" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/flutter.svg"/>
-  <img align="left" alt="react" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/react.svg"/>
-  <img align="left" alt="cakephp" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/cakephp.svg"/>
-  <img align="left" alt="angular" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/angular.svg"/>
-  <img align="left" alt="django" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/django.svg"/>
-</p>
-
-</br>
-
-<!-- Tools -->
-### 👨‍💻 Tools
-
-<p align="center">
-  <img align="left" alt="windows" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/windows.svg"/>
-  <img align="left" alt="linux" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/linux.svg"/>
-  <img align="left" alt="figma" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/figma.svg"/>
-  <img align="left" alt="code" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/vscode.svg"/>
-  <img align="left" alt="android" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/android.svg"/>
-  <img align="left" alt="godot" width="80px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/godot.svg"/>
-  <img align="left" alt="unity" width="80px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/unity.svg"/>
-  <img align="left" alt="blender" width="100px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/blender.svg"/>
-</p>
 
 </br>
 </br>
