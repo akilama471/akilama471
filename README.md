@@ -62,7 +62,10 @@
 
 | Category        | Skills        |
 |-----------------|---------------|
-| 👨‍💻 Languages | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Csharp-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Ruby-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Dart-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/C++-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Pascal-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>|
+| 👨‍💻 Languages | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python"/> <img src="https://img.shields.io/badge/Java-323330?style=for-the-badge"/> <img src="https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php"/> <img src="https://img.shields.io/badge/Csharp-323330?style=for-the-badge&logo=csharp&logoColor=512BD4"/> <img src="https://img.shields.io/badge/Ruby-323330?style=for-the-badge&logo=ruby&logoColor=CC342D"/>
+<img src="https://img.shields.io/badge/Dart-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/C++-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Pascal-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>|
 | 👨‍💻 Database | |
 | 👨‍💻 Style Framework | |
 | 👨‍💻 Framework | |
