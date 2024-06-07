@@ -65,11 +65,13 @@
 | 👨‍💻 Languages | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python"/> <img src="https://img.shields.io/badge/Java-323330?style=for-the-badge"/> <img src="https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php"/> <img src="https://img.shields.io/badge/Csharp-323330?style=for-the-badge&logo=csharp&logoColor=512BD4"/> <img src="https://img.shields.io/badge/Ruby-323330?style=for-the-badge&logo=ruby&logoColor=CC342D"/> <img src="https://img.shields.io/badge/Dart-323330?style=for-the-badge&logo=dart&logoColor=0175C2"/> <img src="https://img.shields.io/badge/C++-323330?style=for-the-badge&logo=cplusplus&logoColor=00599C"/> <img src="https://img.shields.io/badge/Pascal-323330?style=for-the-badge&logo=piped&logoColor=F84330"/>|
 | 👨‍💻 Database | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>  |
 | 👨‍💻 Style Framework | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />  |
-| 👨‍💻 Framework | |
+| 👨‍💻 Framework | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> |
 | 👨‍💻 Game Engine | |
-| 👨‍💻 IDE & Environment | |
-| 👨‍💻 Services & Tools | |
-| 👨‍💻 Learning | |
+| 👨‍💻 Design Tools | |
+| 👨‍💻 Services & Tools | <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> |
+| 👨‍💻 IDE & Environment | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> |
+| 👨‍💻 Operating System | |
+| 👨‍💻 Learning | <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /> |
 
 </br>
 </br>
