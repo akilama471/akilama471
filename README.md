@@ -63,8 +63,8 @@
 | Category        | Skills        |
 |-----------------|---------------|
 | 👨‍💻 Languages | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python"/> <img src="https://img.shields.io/badge/Java-323330?style=for-the-badge"/> <img src="https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php"/> <img src="https://img.shields.io/badge/Csharp-323330?style=for-the-badge&logo=csharp&logoColor=512BD4"/> <img src="https://img.shields.io/badge/Ruby-323330?style=for-the-badge&logo=ruby&logoColor=CC342D"/> <img src="https://img.shields.io/badge/Dart-323330?style=for-the-badge&logo=dart&logoColor=0175C2"/> <img src="https://img.shields.io/badge/C++-323330?style=for-the-badge&logo=cplusplus&logoColor=00599C"/> <img src="https://img.shields.io/badge/Pascal-323330?style=for-the-badge&logo=piped&logoColor=F84330"/>|
-| 👨‍💻 Database | |
-| 👨‍💻 Style Framework | |
+| 👨‍💻 Database | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>  |
+| 👨‍💻 Style Framework | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />  |
 | 👨‍💻 Framework | |
 | 👨‍💻 Game Engine | |
 | 👨‍💻 IDE & Environment | |
