@@ -30,7 +30,7 @@
 <div align="center">
   <h3>Connect with me:</h3>
   <a href="https://akilama471.github.io/" title="Akila's Portfolio"><img src="https://img.shields.io/badge/My%20Portfolio-C4242B?style=for-the-badge&logo=bookmyshow&logoColor=white" /></a>
-  <a href="mailto:developer.akila5@gmail.com"><img src="https://img.shields.io/badge/My%20Portfolio-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:developer.akila5@gmail.com" title="Developer Email"><img src="https://img.shields.io/badge/Email%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/akilamadusanka1/" title="LinkedIN"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/a.madu.20/" target="blank" title="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.facebook.com/akila.ma471/" title="Facebook"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" /></a>
@@ -66,7 +66,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=akilama471" alt="akilama471"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=akilama471&theme=onedark)](https://github.com/akilama471/)
 
 <br/>
 
