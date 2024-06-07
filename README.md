@@ -58,8 +58,8 @@
 
 ***
 <!-- Languages-->
-### 👨‍💻 Languages
-
+| ### 👨‍💻 Languages |
+|:--------:|:-----------|
 <p align="center">
   <img align="left" alt="html5" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/html5.svg"/>
   <img align="left" alt="css3" width="32px" src="https://raw.githubusercontent.com/akilama471/akilama471/main/res/css3.svg"/>
