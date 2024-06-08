@@ -84,7 +84,17 @@
 
 ***
 
-# Skills
+# Open Source Projects For Educational Purposes
 
-| Category        | Skills        |
-|-----------------|---------------|
+| Project         | Link              | Description        |
+|-----------------|-------------------|--------------------|
+
+
+</br>
+
+***
+
+# Open Source Projects For Gaming Purposes
+
+| Project         | Link              | Description        |
+|-----------------|-------------------|--------------------|
