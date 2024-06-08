@@ -40,6 +40,20 @@
 
 ***
 
+<br/>
+
+I have been studying IT since 2010 and have done various IT certificate courses from FreeCodeCamp, Sololeran, Udemy and Uni.of.Moratuwa.
+
+I have been working as a freelance full-time developer for four years. I have just created a startup called Akari Cloud Solution.
+
+I am an expert in computer software, website development, computer and mobile game design and mobile application development.I am proficient in Java, C#, Go, Python, PHP, Flutter, HTML, CSS, PHP, Mysql, JavaScript, and OOP methodology, system development Skilled in database design.
+
+ I have developed many IT solutions for educational, business, personal and entertainment.
+
+<br/>
+
+***
+
 # Skills
 
 | Category        | Skills        |
