@@ -84,7 +84,7 @@
 
 ***
 
-# Open Source Projects For Educational Purposes
+### Open Source Projects For Educational Purposes
 
 | Project         | Link              | Description        |
 |-----------------|-------------------|--------------------|
@@ -94,7 +94,7 @@
 
 ***
 
-# Open Source Projects For Gaming Purposes
+### Open Source Projects For Gaming Purposes
 
 | Project         | Link              | Description        |
 |-----------------|-------------------|--------------------|
