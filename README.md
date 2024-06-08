@@ -54,7 +54,7 @@
 | 👨‍💻 IDE | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Visula%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" /> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />|
 | 👨‍💻 Environment | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/LAMP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/> <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/> |
 | 👨‍💻 Operating System |  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows10&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/Linux%20Server-DA3B8A?style=for-the-badge&logo=linuxserver&logoColor=white"/> |
-| 👨‍💻 Learning | <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /> <img src="https://img.shields.io/badge/sololearn-149EF2?style=for-the-badge&logo=sololearn&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /> |
+| 👨‍💻 Learning | <a href="https://www.freecodecamp.org/akilama471"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /></a> <a href="https://www.sololearn.com/en/profile/17181955"><img src="https://img.shields.io/badge/sololearn-149EF2?style=for-the-badge&logo=sololearn&logoColor=white" /></a> <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /> |
 
 </br>
 
@@ -64,11 +64,12 @@
 
 <br/> 
 
-<p align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=akilama471&theme=onedark)](https://github.com/akilama471/)
 
 <br/>
+
+<p align="center">
 
 <a href="https://github.com/akilama471">
   <img height=200 align="center" src="https://github-readme-stats-akilama471s-projects.vercel.app/api?username=akilama471&show_icons=true&theme=dracula" />
@@ -78,3 +79,12 @@
 </a>
 
 </p>
+
+</br>
+
+***
+
+# Skills
+
+| Category        | Skills        |
+|-----------------|---------------|
