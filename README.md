@@ -35,22 +35,61 @@
   <a href="https://www.instagram.com/a.madu.20/" target="blank" title="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.facebook.com/akila.ma471/" title="Facebook"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://discordapp.com/users/775019743651823646" title="Discord"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://wa.me/94767221025" title="Whatsapp"><img src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://wa.me/94755224417" title="Whatsapp"><img src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </div>
 
 ***
 
 <br/>
 
-### About Me
+# 👨‍💻 About Me  
 
-  - I am a Computer Science student from Sri Lanka.
-  - I have been working as a freelance full-time developer for four years.
-  - I have just created a startup called Akari Cloud Solution.
-  - I am an expert in computer software, website development, computer and mobile game design and mobile application development.
-  - I am proficient in Java, C#, Go, Python, PHP, Flutter, HTML, CSS, PHP, Mysql, JavaScript, and OOP methodology, system development.
-  - I have developed many IT solutions for educational, business, personal and entertainment.
-  - I am a team player, quick learner, and very passionate about coding. I have completed many IT courses from FreeCodeCamp, Sololeran, Udemy and Uni.of.Moratuwa.
+🌍 I'm a passionate **Computer Science student** from **Sri Lanka**.  
+💻 I've been working as a **freelance full-time developer** for **4 years**.  
+🚀 Recently, I launched my very own startup: **Akari Cloud Solution**!  
+
+## ✨ Expertise  
+- 🖥️ **Software Development**  
+- 🌐 **Website Creation**  
+- 🎮 **Game Design** (Computer & Mobile)  
+- 📱 **Mobile App Development**  
+
+## 🔧 Technical Skills  
+### 🖋️ Programming Languages  
+- Java ☕  
+- C# 💡  
+- Go 🐹  
+- Python 🐍  
+- PHP 🌐  
+- Flutter 🐦  
+- HTML & CSS 🎨  
+- MySQL 🗄️  
+- JavaScript 💻  
+
+### 💡 Development Approach  
+- 🎯 **OOP Methodology**  
+- ⚙️ **System Development**  
+
+## 🌟 Projects  
+I’ve developed IT solutions across:  
+- **Education** 📘  
+- **Business** 💼  
+- **Personal** 🏠  
+- **Entertainment** 🎭  
+
+## 💪 Personal Traits  
+- 🤝 **Team Player**  
+- ⚡ **Quick Learner**  
+- ❤️ **Passionate about Coding**  
+
+## 🎓 Courses Completed  
+- FreeCodeCamp 🌟  
+- Sololearn 📚  
+- Udemy 🎥  
+- University of Moratuwa 🎓  
+
+---
+⭐️ _Feel free to connect with me!_ 😊
   
 <br/>
 
