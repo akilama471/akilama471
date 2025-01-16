@@ -22,7 +22,7 @@
 <!-- Github Streaks Stats -->
 
 <p align="center">
-  <img title="Streak Stats 🔥" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com?user=akilama471&theme=dracula"/>
+  <img title="Streak Stats 🔥" alt="akilama471's streak" src="https://github-readme-streak-stats.herokuapp.com?user=akilama471&theme=dracula"/>
 </p>
 
 <br />
