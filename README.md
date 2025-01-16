@@ -54,19 +54,7 @@
 - 🎮 **Game Design** (Computer & Mobile)  
 - 📱 **Mobile App Development**  
 
-## 🔧 Technical Skills  
-### 🖋️ Programming Languages  
-- Java ☕  
-- C# 💡  
-- Go 🐹  
-- Python 🐍  
-- PHP 🌐  
-- Flutter 🐦  
-- HTML & CSS 🎨  
-- MySQL 🗄️  
-- JavaScript 💻  
-
-### 💡 Development Approach  
+## 💡 Development Approach  
 - 🎯 **OOP Methodology**  
 - ⚙️ **System Development**  
 
@@ -83,10 +71,10 @@ I’ve developed IT solutions across:
 - ❤️ **Passionate about Coding**  
 
 ## 🎓 Courses Completed  
+- University of Moratuwa 🎓  
 - FreeCodeCamp 🌟  
 - Sololearn 📚  
 - Udemy 🎥  
-- University of Moratuwa 🎓  
 
 ---
 ⭐️ _Feel free to connect with me!_ 😊
