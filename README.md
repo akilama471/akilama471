@@ -58,24 +58,6 @@
 - 🎯 **OOP Methodology**  
 - ⚙️ **System Development**  
 
-## 🌟 Projects  
-I’ve developed IT solutions across:  
-- **Education** 📘  
-- **Business** 💼  
-- **Personal** 🏠  
-- **Entertainment** 🎭  
-
-## 💪 Personal Traits  
-- 🤝 **Team Player**  
-- ⚡ **Quick Learner**  
-- ❤️ **Passionate about Coding**  
-
-## 🎓 Courses Completed  
-- University of Moratuwa 🎓  
-- FreeCodeCamp 🌟  
-- Sololearn 📚  
-- Udemy 🎥  
-
 ---
 ⭐️ _Feel free to connect with me!_ 😊
   
