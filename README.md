@@ -90,7 +90,7 @@
 <br/> 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=akilama471&theme=onedark)](https://github.com/akilama471/)
+[![trophy](https://github-profile-trophy-akilama471s-projects.vercel.app/?username=akilama471&theme=onedark)](https://github.com/akilama471/)
 
 <br/>
 
