@@ -7,7 +7,7 @@
 </p>
 
 <!-- Brief Text About Myself -->
-<h4 align="center">| Founder and CEO @ NextGenWar |</h4>
+<h4 align="center">| Founder and CEO @ NextGenWare |</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akilama471&label=Profile%20views&color=0e75b6&style=flat" alt="akilama471" /> </p>
 
 </br>
@@ -114,7 +114,6 @@
 | Project         | Link              | Description        |
 |-----------------|-------------------|--------------------|
 |Number System Converter| <a href="https://github.com/akilama471/NumberSystemConverter-BinaryViewer">View Repo</a> | Number System Converter (Binary , Ocatal, Decimal, Hexa) & Binary View|
-|-----------------|-------------------|--------------------|
 
 
 </br>
