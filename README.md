@@ -95,14 +95,16 @@
 <br/>
 
 <p align="center">
-
-<a href="https://github.com/akilama471">
-  <img height=200 align="center" src="https://github-readme-stats-akilama471s-projects.vercel.app/api?username=akilama471&show_icons=true&theme=dracula" />
-</a>
+  <a href="https://github.com/akilama471">
+    <img height=200 align="center" src="https://github-readme-stats-akilama471s-projects.vercel.app/api?username=akilama471&show_icons=true&theme=dracula" />
+  </a>
 </p>
-<a href="https://github.com/akilama471">
-  <img height=200 align="center" src="https://github-readme-stats-akilama471s-projects.vercel.app/api/top-langs?username=akilama471&layout=compact&theme=dracula&langs_count=16" />
-</a>
+<br/>
+<p align="center">
+  <a href="https://github.com/akilama471">
+    <img height=200 align="center" src="https://github-readme-stats-akilama471s-projects.vercel.app/api/top-langs?username=akilama471&layout=compact&theme=dracula&langs_count=16&card_width=320" />
+  </a>
+</p>
 
 </br>
 
