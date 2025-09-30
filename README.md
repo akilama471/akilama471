@@ -102,7 +102,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/akilama471">
-    <img height=200 align="center" src="https://github-readme-stats-akilama471s-projects.vercel.app/api/top-langs?username=akilama471&layout=pie&theme=dracula&langs_count=16&card_width=720" />
+    <img height=200 align="center" src="https://github-readme-stats-akilama471s-projects.vercel.app/api/top-langs?username=akilama471&layout=compact&theme=dracula&langs_count=16&card_width=720" />
   </a>
 </p>
 
