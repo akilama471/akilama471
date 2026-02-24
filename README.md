@@ -55,12 +55,30 @@
 
 ## 💡 Development Approach  
 - 🎯 **OOP Methodology**  
-- ⚙️ **System Development**  
+- ⚙️ **System Development**
+  
+## 🔧 Core Skills
+- **Mobile:** Android (Kotlin, Jetpack Compose), Flutter
+- **Backend:** Laravel (PHP), REST APIs, Node.js
+- **Frontend:** Vue.js, HTML, CSS, JavaScript
+- **Databases:** MySQL, MongoDB
+- **Cloud & Tools:** Firebase, Git, GitHub, Linux
 
 ---
 ⭐️ _Feel free to connect with me!_ 😊
   
 <br/>
+
+## ❓ Frequently Asked Questions
+
+**Who is Akila Madhushanka?**  
+A full-stack software engineer specializing in mobile and web applications.
+
+**What technologies does Akila use?**  
+Kotlin, Flutter, Laravel, Vue.js, Firebase, Python.
+
+**Where is Akila based?**  
+Sri Lanka.
 
 ***
 
