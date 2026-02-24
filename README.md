@@ -42,7 +42,6 @@
 <br/>
 
 # 👨‍💻 About Me  
-
 🌍 I'm a passionate **Computer Science student** from **Sri Lanka**.  
 💻 I've been working as a **freelance full-time developer** for **4 years**.  
 🚀 Recently, I launched my very own startup: <a href="https://nextgenware.lk" title="NextGenWare">**NextGenWare**!</a>  
@@ -64,7 +63,7 @@
 - **Databases:** MySQL, MongoDB
 - **Cloud & Tools:** Firebase, Git, GitHub, Linux
 
-  ## 📫 Contact
+## 📫 Contact
 - 💼 Portfolio: https://akilama471.github.io/
 - 🔗 GitHub: https://github.com/akilama471
 - 📧 Email: your@email.com
