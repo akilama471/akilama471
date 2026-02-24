@@ -1,5 +1,5 @@
 <!-- First Main Heading -->
-<h1 align="center"> Hi 👋, My Name Is Akila Madhushanka <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" width="28"/> </h1>
+<h1 align="center"> Akila Madhushanka | Full-Stack Developer | Laravel Expert | AI Specialist <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" width="28"/> </h1>
 
 <!-- Typing SVG -->
 <p align="center">
