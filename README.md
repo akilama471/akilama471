@@ -1,10 +1,8 @@
 <!-- First Main Heading -->
 <h1 align="center"> Akila Madhushanka — Full-Stack Developer & Software Engineer <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" width="28"/> </h1>
-I am a **Full-Stack Developer** from **Sri Lanka** with over **5 years of professional experience** in **Android (Kotlin & Jetpack Compose)**, **Flutter**, **Laravel**, **Vue.js**, **Firebase**, **Python**, and **cloud-enabled scalable systems**. I build **web apps**, **mobile apps**, and **backend systems** used by real users.
 
-<!-- Typing SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&center=true&width=435&lines=Software+engineer;Network+engineer;Computer+programmer;Web+administrator;Game+Developer" alt="Typing SVG" /></a>
+  I am a Full-Stack Developer from Sri Lanka with over 5 years of professional experience in Android (Kotlin & Jetpack Compose), Flutter, Laravel, Vue.js, Firebase, Python, and cloud-enabled scalable systems. I build web apps, mobile apps, and backend systems used by real users.
 </p>
 
 <!-- Brief Text About Myself -->
