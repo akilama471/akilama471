@@ -66,7 +66,7 @@
 ## 📫 Contact
 - 💼 Portfolio: https://akilama471.github.io/
 - 🔗 GitHub: https://github.com/akilama471
-- 📧 Email: your@email.com
+- 📧 Email: ාැdeveloper.akila5@email.com
 - 🌍 Location: Sri Lanka
 
 ---
