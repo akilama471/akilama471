@@ -134,8 +134,18 @@ Sri Lanka.
 
 | Project         | Link              | Description        |
 |-----------------|-------------------|--------------------|
-|Number System Converter| <a href="https://github.com/akilama471/NumberSystemConverter-BinaryViewer">View Repo</a> | Number System Converter (Binary , Ocatal, Decimal, Hexa) & Binary View|
+| Number System Converter| <a href="https://github.com/akilama471/NumberSystemConverter-BinaryViewer">View Repo</a> | Number System Converter & Binary View |
 
+
+</br>
+
+***
+
+### Open Source Projects For Campus Students
+
+| Project         | Link              | Description        |
+|-----------------|-------------------|--------------------|
+| FaceVault | <a href="https://github.com/akilama471/FaceVault-V1">View Repo</a> | Military-grade encryption with biometric face authentication |
 
 </br>
 
