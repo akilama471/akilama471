@@ -130,11 +130,12 @@ Sri Lanka.
 
 ***
 
-### Open Source Projects For Educational Purposes
+### Open Source Projects
 
 | Project         | Link              | Description        |
 |-----------------|-------------------|--------------------|
 | Number System Converter| <a href="https://github.com/akilama471/NumberSystemConverter-BinaryViewer">View Repo</a> | Number System Converter & Binary View |
+| CV Generator | <a href="https://github.com/akilama471/CV-Builder">View Repo</a> | Simple web-based CV Builder that allows users to generate professional resumes dynamically |
 
 
 </br>
