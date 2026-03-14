@@ -136,6 +136,7 @@ Sri Lanka.
 |-----------------|-------------------|--------------------|
 | Number System Converter| <a href="https://github.com/akilama471/NumberSystemConverter-BinaryViewer">View Repo</a> | Number System Converter & Binary View |
 | CV Generator | <a href="https://github.com/akilama471/CV-Builder">View Repo</a> | Simple web-based CV Builder that allows users to generate professional resumes dynamically |
+| Laravel Support for Zed | <a href="https://github.com/akilama471/zed-laravel-extension">View Repo</a> | Enhance your Zed IDE experience with full Laravel support |
 
 
 </br>
