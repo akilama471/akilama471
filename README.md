@@ -42,7 +42,7 @@
 <br/>
 
 # 👨‍💻 About Me  
-- I'm a passionate **Computer Science student** from **Sri Lanka**.  
+- I'm a passionate **Computer Science Enginear** from **Sri Lanka**.  
 - I've been working as a **freelance full-time developer** for **4 years**.  
 - Recently, I launched my very own startup: <a href="https://nextgenware.lk" title="NextGenWare">**NextGenWare**!</a>  
 
