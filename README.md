@@ -148,7 +148,8 @@ Sri Lanka.
 | Project         | Link              | Description        |
 |-----------------|-------------------|--------------------|
 | FaceVault | <a href="https://github.com/akilama471/FaceVault-V1">View Repo</a> | Military-grade encryption with biometric face authentication |
-| Furniture Visualizer | <a href="https://github.com/akilama471/FaceVault-V1">View Repo</a> | urnitureVisualizer is a 3D/AR-based application that allows users to visualize and place virtual furniture in real-world environments |
+| FurnitureVisualizer | <a href="https://github.com/akilama471/FaceVault-V1">View Repo</a> | urnitureVisualizer is a 3D/AR-based application that allows users to visualize and place virtual furniture in real-world environments |
+| PseudoCodeRunner | <a href="https://github.com/akilama471/PseudoCodeRunner-Electron">View Repo</a> | An educational tool built with Electron.js that allows students to write and execute pseudocode. |
 
 </br>
 
