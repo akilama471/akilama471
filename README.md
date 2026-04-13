@@ -148,7 +148,7 @@ Sri Lanka.
 | Project         | Link              | Description        |
 |-----------------|-------------------|--------------------|
 | FaceVault | <a href="https://github.com/akilama471/FaceVault-V1">View Repo</a> | Military-grade encryption with biometric face authentication |
-| Furniture Visualizer | <a href="https://github.com/akilama471/FaceVault-V1">View Repo</a> | FurnitureVisualizer is a 3D/AR-based application  |
+| Furniture Visualizer | <a href="https://github.com/akilama471/FaceVault-V1">View Repo</a> | urnitureVisualizer is a 3D/AR-based application that allows users to visualize and place virtual furniture in real-world environments |
 
 </br>
 
