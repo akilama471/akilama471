@@ -8,7 +8,9 @@
 <!-- Brief Text About Myself -->
 <h4 align="center">| Founder and CEO @ NextGenWare |</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akilama471&label=Profile%20views&color=0e75b6&style=flat" alt="akilama471" /> </p>
-[![committers.top badge](https://user-badge.committers.top/sri_lanka_private/akilama471.svg)](https://user-badge.committers.top/sri_lanka_private/akilama471)
+<a href="https://user-badge.committers.top/sri_lanka_private/akilama471">
+  <img src="https://user-badge.committers.top/sri_lanka_private/akilama471.svg" alt="committers.top badge" />
+</a>
 </br>
 
 <p align="center">
