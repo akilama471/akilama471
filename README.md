@@ -124,7 +124,7 @@ Sri Lanka.
   </a>
   
   <a href="https://github.com/akilama471">
-    <img height=200 align="center" src="https://github-stats-extended-frontend-git-master-akilama471s-projects.vercel.app/api/top-langs?username=akilama471&layout=compact&theme=dracula&langs_count=10&card_width=320" />
+    <img height=200 align="center" src="https://github-stats-akilama471.vercel.app/api/top-langs?username=akilama471&layout=compact&theme=dark_github&langs_count=10&card_width=320" />
   </a>
 </p>
 
