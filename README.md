@@ -114,7 +114,7 @@ Sri Lanka.
 <br/> 
 
 
-[![trophy](https://github-profile-trophy-akilama471s-projects.vercel.app/?username=akilama471&theme=onedark)](https://github.com/akilama471/)
+[![trophy](https://https://github-trophy-akilama471.vercel.app/?username=akilama471&theme=dracula)](https://github.com/akilama471/)
 
 <br/>
 
