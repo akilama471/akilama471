@@ -120,11 +120,11 @@ Sri Lanka.
 
 <p align="center">
   <a href="https://github.com/akilama471">
-    <img height=200 align="center" src="https://github-stats-akilama471.vercel.app/api?username=akilama471&show_icons=true&theme=dark_github" />
+    <img height=200 align="center" src="https://github-stats-akilama471.vercel.app/api?username=akilama471&show_icons=true&include_all_commits=true&theme=dark_github" />
   </a>
   
   <a href="https://github.com/akilama471">
-    <img height=200 align="center" src="https://github-stats-akilama471.vercel.app/api/top-langs?username=akilama471&layout=compact&theme=dark_github&langs_count=10&card_width=320" />
+    <img height=200 align="center" src="https://github-stats-akilama471.vercel.app/api/top-langs?username=akilama471&layout=compact&include_all_commits=true&theme=dark_github&langs_count=10&card_width=320" />
   </a>
 </p>
 
