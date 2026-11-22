@@ -82,10 +82,7 @@
 A full-stack software engineer specializing in mobile and web applications.
 
 **What technologies does Akila use?**  
-Kotlin, Flutter, Laravel, Vue.js, Firebase, Python.
-
-**Where is Akila based?**  
-Sri Lanka.
+Laravel, Flutter, React, Python.
 
 ***
 
