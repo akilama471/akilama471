@@ -48,22 +48,30 @@
 - I've been working as a **freelance full-time developer** for **4 years**.  
 - Recently, I launched my very own startup: <a href="https://nextgenware.lk" title="NextGenWare">**NextGenWare**!</a>  
 
-## ✨ Expertise  
-- **Software Development**  
-- **Website Creation**  
-- **Game Design** (Computer & Mobile)  
-- **Mobile App Development**  
+## ✨ Expertise
 
-## 💡 Development Approach  
-- **OOP Methodology**  
-- **System Development**
-  
+- **Software Engineering & Application Development**
+- **Desktop & Business Application Development**
+- **Mobile Application Development**
+- **Game Development** (Desktop & Mobile)
+- **Full-Stack & Backend Development**
+
+## 💡 Development Approach
+
+- **Object-Oriented Programming (OOP)**
+- **Clean Code & Maintainable Architecture**
+- **Modular & Scalable System Design**
+- **API Development & Integration**
+- **Problem Solving & Software Engineering Practices**
+
 ## 🔧 Core Skills
-- **Mobile:** Android (Kotlin, Jetpack Compose), Flutter
-- **Backend:** Laravel (PHP), REST APIs, Node.js
-- **Frontend:** Vue.js, HTML, CSS, JavaScript
+
+- **Mobile Development:** Flutter, Dart
+- **Backend Development:** PHP, Laravel, Node.js
+- **Frontend Development:** JavaScript, TypeScript, React, Vue.js
 - **Databases:** MySQL, MongoDB
-- **Cloud & Tools:** Firebase, Git, GitHub, Linux
+- **Cloud & Infrastructure:** Firebase, Linux
+- **Development Tools:** Git, GitHub, VS Code
 
 ## 📫 Contact
 - 💼 Portfolio: https://akilama471.github.io/
