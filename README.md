@@ -93,12 +93,12 @@ Sri Lanka.
 
 | Category        | Skills        |
 |-----------------|---------------|
-| 👨‍💻 Languages | JAVASCRIPT, PYTHON, RUST, JAVA, PHP, CSHARP, RUBY, DART, C++, PASCAL|
-| 👨‍💻 Database | MONGODB, MYSQL, POSTGRESQL, MARIADB|
+| 👨‍💻 Languages | PHP, PYTHON, RUST, JAVA, CSHARP, RUBY, DART|
+| 👨‍💻 Database | MYSQL, MONGODB, POSTGRESQL, MARIADB|
 | 👨‍💻 Styling Framework | CSS3, SASS, BOOTSTRAP, TAILWINDCSS|
-| 👨‍💻 Framework | REACT, jQuery, FLUTTER, ANGULER, VUE.JS, DJANGO, LARAVEL, CAKEPHP|
+| 👨‍💻 Framework | LARAVEL, FLUTTER, REACT, VUE.JS|
 | 👨‍💻 Game Engine | UNITY, GODOT, GDEVELOP |
-| 👨‍💻 Design Tools | ADOBE XD, ADOBE ILLUSTRATOR, FIGMA|
+| 👨‍💻 Design Tools | FIGMA |
 | 👨‍💻 Services & Tools | GITHUB, GIT, FIREBASE|
 | 👨‍💻 IDE | VSCODE, VISUAL STUDIO, ANDROID STUDIO|
 | 👨‍💻 Environment | NODE.JS, LAMP, MERN |
