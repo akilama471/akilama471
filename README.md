@@ -2,7 +2,7 @@
 <h1 align="center"> Akila Madhushanka — Full-Stack Developer & Software Engineer <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" width="28"/> </h1>
 
 <p align="center">
-  I am a Full-Stack Developer from Sri Lanka with over 5 years of professional experience in Android (Kotlin & Jetpack Compose), Flutter, Laravel, Vue.js, Firebase, Python, and cloud-enabled scalable systems. I build web apps, mobile apps, and backend systems used by real users.
+  I am a Full-Stack Developer from Sri Lanka with over 5 years of professional experience in Laravel, React, Flutter, Vue.js, Python, and cloud-enabled scalable systems. I build web apps, mobile apps, and backend systems used by real users.
 </p>
 
 <!-- Brief Text About Myself -->
@@ -68,7 +68,7 @@
 ## 📫 Contact
 - 💼 Portfolio: https://akilama471.github.io/
 - 🔗 GitHub: https://github.com/akilama471
-- 📧 Email: developer.akila5@email.com
+- 📧 Email: developer.akila5@gmail.com
 - 🌍 Location: Sri Lanka
 
 ---
